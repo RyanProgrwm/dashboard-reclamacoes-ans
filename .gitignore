@@ -1,0 +1,6 @@
+# dados brutos da ANS (grandes demais para o repositório; links no README)
+*.csv
+
+# exportações e arquivos temporários do Power BI
+*.pdf
+~$*
